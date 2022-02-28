@@ -1,15 +1,23 @@
-The Pangolin
+The Pangolin - title
 
+//skip links
 Jump to main content
 Jump to navigation
 
-Pangolin
+//header
+Pangolin - h1
+//nav
 Description
 Behaviour
 Conservation
 
-Description
-Some countries where pangolins are found
+//main
+/img for pangolin
+//section
+Description - h2
+//div
+Some countries where pangolins are found - h3
+//list
 Botswana
 Kenya
 Mozambique
@@ -20,14 +28,18 @@ Uganda
 Zambia
 Zimbabwe
 
-Behaviour
-https://en.wikipedia.org/wiki/Pangolin#Behavior
-Read more about Pangolin behaviour
-Read more
+//section
+Behaviour -h2
+https://en.wikipedia.org/wiki/Pangolin#Behavior -href
+Read more about Pangolin behaviour - aria label for a tag
+Read more -content
 
-Conservation
-https://en.wikipedia.org/wiki/Pangolin#Conservation
-Read more about Pangolin conservation
-Read more
+//section
+Conservation -h2
+//a
+https://en.wikipedia.org/wiki/Pangolin#Conservation -href
+Read more about Pangolin conservation - aria label for a tag
+Read more - content
 
-© 1821 Pangolin
+//footer
+© 1821 Pangolin -p
